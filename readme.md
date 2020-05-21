@@ -1,4 +1,4 @@
-# CS162 Spring 2019: Retail estate database application
+# Retail estate database application
 #### Wei-Ting Yap
 
 # Instructions to run
